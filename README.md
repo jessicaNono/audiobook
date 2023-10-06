@@ -49,7 +49,7 @@ Visualize the process of audio sampling with this Python script. The script load
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details (if you have a license file, otherwise you can remove this line).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details .
 
 ---
 
